@@ -9,13 +9,13 @@ A super simple FastAPI application that allows students to view and sign up for 
 
 ## Getting Started
 
-1. Install the dependencies:
+1. Install the dependencies from the repo root:
 
    ```
-   pip install fastapi uvicorn
+   pip install -r ../requirements.txt
    ```
 
-2. Run the application:
+2. Run the application from the src directory:
 
    ```
    python app.py
